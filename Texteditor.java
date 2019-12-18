@@ -1,4 +1,4 @@
-// A Simple Text Editor Using Java
+// A Simple Text Editor Using Java Swing
 
 import java.awt.*;
 import javax.swing.*;
